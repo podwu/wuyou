@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  border: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-size: 14px;
+  font-family: "microsoft yahei";
+  line-height: 1.2;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: 400;
+  text-align: left;
+}
+ul {
+	list-style: none;
+}

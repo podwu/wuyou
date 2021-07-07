@@ -1,0 +1,29 @@
+[{
+    "g_id": 1,
+    "g_name": "o小米无线充电宝30W 10000mAh",
+    "g_price": 189,
+    "g_num": 1,
+    "g_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1599811904.09223358.jpg?thumb=1&amp;w=108&amp;h=108"
+  },
+  {
+    "g_id": 2,
+    "g_name": "小米无线充电宝青春版10000mAh",
+    "g_price": 109,
+    "g_num": 1,
+    "g_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083247.368995.jpg?thumb=1&w=108&h=108"
+  },
+  {
+    "g_id": 3,
+    "g_name": "7号彩虹电池（10粒装）",
+    "g_price": 9.9,
+    "g_num": 1,
+    "g_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/T178EjBjVT1RXrhCrK.jpg?thumb=1&w=108&h=108"
+  },
+  {
+    "g_id": 4,
+    "g_name": "MIX FOLD 小米折叠屏手机 12GB+256GB 黑色",
+    "g_price": 9999,
+    "g_num": 1,
+    "g_img": "//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617098695.73526265.jpg?thumb=1&w=108&h=108"
+  }
+]
